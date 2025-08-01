@@ -56,7 +56,7 @@
 
 ## 📸 Screenshot
 
-> *(Tambahkan tangkapan layar halaman utama, editor blog, detail blog, dan UI notifikasi jika tersedia.)*
+> *<img width="1893" height="898" alt="image" src="https://github.com/user-attachments/assets/d3d82b73-ae9f-4999-abaf-98185e72485d" />*
 
 ---
 
