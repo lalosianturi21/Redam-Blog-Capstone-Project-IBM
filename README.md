@@ -1,7 +1,7 @@
 # Redam Blog — Ruang Aman untuk Curhat & Dukungan Emosional
 
 <p align="center">
-  <img width="120" alt="Frame 5 (2)" src="https://github.com/user-attachments/assets/ed2b6508-0cb0-4ac6-bb4a-f719a95a91d2" />
+  <img width="220" alt="Frame 5 (2)" src="https://github.com/user-attachments/assets/ed2b6508-0cb0-4ac6-bb4a-f719a95a91d2" />
 </p>
 
 ---
