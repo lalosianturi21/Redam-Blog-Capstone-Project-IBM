@@ -19,7 +19,7 @@
 - Express.js  
 - MongoDB + Mongoose  
 - Firebase Admin SDK  
-- Cloudinary  
+- AWS S3
 
 **Authentication:**
 - Firebase Authentication (Google Sign-In)
