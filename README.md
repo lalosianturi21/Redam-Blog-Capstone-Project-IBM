@@ -64,5 +64,51 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/namakamu/redam-blog.git
-cd redam-blog
+git clone https://github.com/lalosianturi21/Redam-Blog-Capstone-Project-IBM.git
+cd Redam-Blog-Capstone-Project-IBM
+```
+### 2. Installation Backend
+
+```bash
+cd server
+npm install
+npm start
+```
+### 3. Installation Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+## 🔐 Konfigurasi Environment Variable
+
+### 📁 Backend (/server/.env)
+
+```bash
+DB_MONGO=
+SECRET_ACCESS_KEYS=
+AWS_ACCESS_KEYS=
+AWS_SECRET_ACCESS_KEYS=
+FIREBASE_TYPE=
+FIREBASE_PROJECT_ID=
+FIREBASE_PRIVATE_KEY_ID=
+FIREBASE_PRIVATE_KEY=""
+FIREBASE_CLIENT_EMAIL=
+FIREBASE_CLIENT_ID=
+FIREBASE_AUTH_URI=
+FIREBASE_TOKEN_URI=
+FIREBASE_AUTH_PROVIDER_CERT_URL=
+FIREBASE_CLIENT_CERT_URL=
+FIREBASE_UNIVERSE_DOMAIN=
+```
+
+### 📁 Frontend (/client/.env)
+
+```bash
+VITE_SERVER_DOMAIN=
+```
+
+
+
