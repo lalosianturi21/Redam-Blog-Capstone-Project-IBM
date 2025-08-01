@@ -1,6 +1,8 @@
-# 📝 Redam Blog — Ruang Aman untuk Curhat & Dukungan Emosional
+# Redam Blog — Ruang Aman untuk Curhat & Dukungan Emosional
 
-**Redam Blog** adalah platform blogging berbasis MERN stack yang dirancang sebagai ruang aman untuk menulis, membaca, dan mendukung cerita-cerita emosional dari kehidupan nyata. Pengguna bisa berbagi pengalaman seputar bullying, kesehatan mental, masalah keluarga, dan lainnya — serta saling menguatkan melalui komentar dan like.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6107699-5093-4c1c-a202-72d8c09f067a" alt="ViTrash Logo" width="120" />
+</p>
 
 ---
 
