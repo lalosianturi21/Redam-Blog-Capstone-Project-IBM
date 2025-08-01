@@ -37,8 +37,7 @@
 - Filter dan navigasi berdasarkan kategori.
 
 ### 🔐 Login dengan Google
-- Autentikasi menggunakan Firebase Authentication (Google Sign-In).
-- Tidak perlu membuat akun manual, lebih cepat dan aman.
+- Autentikasi menggunakan Firebase Authentication (Google Sign-In) dan membuat akun manual.
 
 ### ❤️ Like & 💬 Komentar
 - Pengguna bisa menyukai atau mengomentari blog sebagai bentuk empati.
