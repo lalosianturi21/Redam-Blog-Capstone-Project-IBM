@@ -1,7 +1,7 @@
 # Redam Blog — Ruang Aman untuk Curhat & Dukungan Emosional
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6107699-5093-4c1c-a202-72d8c09f067a" alt="ViTrash Logo" width="120" />
+  Redam <img width="2000" height="2000" alt="Frame 4 (6)" src="https://github.com/user-attachments/assets/5c9096b9-ae2c-450c-985d-2ab3d8ba7f2f" />
 </p>
 
 ---
